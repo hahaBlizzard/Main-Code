@@ -1,5 +1,5 @@
 # Main-Code
-This is the documentation for the AI-Based workflow:
+This is the documentation for the AI-Based workflow (You can check the full details in the Documentation for Installing.pdf):
 
 Steps to install WSL:
   1. Open PowerShell (or Windows Command Prompt) and enter: wsl --install
