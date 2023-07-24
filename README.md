@@ -19,15 +19,15 @@ Steps to install numpy:
 Steps to install tkinter:
   1. sudo apt-get install python3-tk
 
-Steps to install tkinter:
+Steps to install pylas library:
   1. pip install pylas
 
 Steps to install our Model:
  1. type the command line: git clone https://github.com/hahaBlizzard/Main-Code.git
 
 Steps to connect Visual Studio Code to Wsl Terminal:
-  1. Open Visual Studio Code, install the Remote - WSL extension: Open Visual Studio Code, go to the Extensions view by clicking on the square icon on the left sidebar, and search for "Remote - WSL". Install the "Remote - WSL" extension provided by Microsoft.
-  2 .Then back to Wsl terminal, go to the directory you want to edit your code file. Input command line: 'code .'    Then the visual studio code should pop up immediately. 
+  1. Open Visual Studio Code, and install the Remote - WSL extension: Open Visual Studio Code, go to the Extensions view by clicking on the square icon on the left sidebar, and search for "Remote - WSL". Install the "Remote - WSL" extension provided by Microsoft.
+  2 . Then back to Wsl terminal, go to the directory you want to edit your code file. Input command line: 'code .'    Then the visual studio code should pop up immediately. 
 
 
 
