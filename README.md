@@ -1,4 +1,4 @@
-# Main-Code
+# AI-Based Workflow for Fast Registration of UAV-Produced 3D Point Clouds
 This is the documentation for the AI-Based workflow (You can check the full details in the Documentation for Installing.pdf):
 
 Steps to install WSL:
